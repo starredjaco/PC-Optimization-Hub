@@ -308,6 +308,7 @@
     - [Nirsoft's Tools](https://www.nirsoft.net/utils/index.html) (huge compendium)
     - [NTLite](https://www.ntlite.com/) (ISO creation)
     - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10)
+    - [ViVe](https://github.com/thebookisclosed/ViVe)
     - [MultiTool](https://github.com/BoringBoredom/Windows-MultiTool)
     - [ReservedCpuSets](https://github.com/valleyofdoom/ReservedCpuSets)
     - [Process Lasso](https://bitsum.com/) (priority and affinity saver)
