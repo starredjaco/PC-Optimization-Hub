@@ -161,10 +161,9 @@
 - ## Mouse
   - ### Information
     - [FAQ](content/peripherals/mouse%20faq.md)
-    - [Newbrict's page](https://sensor.fyi/info/)
-    - [Click latency database](https://github.com/NVIDIA/Reflex-Latency-Analyzer-Mouse-Database/blob/main/NVIDIA%20RLA%20Mice%20Database%20-%20Github.csv)
   - ### Reviews
     - [TechPowerUp](https://www.techpowerup.com/review/?category=Mice&manufacturer=&pp=50&order=date)
+    - [EYEJOKER DB](https://eyejokerdb.com/en/benchmarks/mouse)
   - ### Tools
     - [EloShapes shape comparison](https://www.eloshapes.com/)
     - [RTINGS shape comparison](https://www.rtings.com/mouse/tools/3d-model-shape-compare/?orientation=3D)
@@ -175,6 +174,7 @@
   - [Hoya's sheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/edit)
   - [Viscose's sheet](https://docs.google.com/spreadsheets/d/1Ix0RN4WDgRIn9uSUMy2smG_vWR3FTnZHgNpumChfHM0/edit)
 - ## Keyboard
+  - [EYEJOKER DB](https://eyejokerdb.com/en/benchmarks/keyboard)
   - ["What influences keyboard input speed"](https://wooting.io/post/what-influences-keyboard-speed)
 - ## Controller
   - [Gamepadla tests](https://gamepadla.com/)
@@ -199,7 +199,6 @@
     - [Custom Resolution Utility](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU)
     - [ControlMyMonitor](https://www.nirsoft.net/utils/control_my_monitor.html)
     - [Open Source Response Time Tool](https://www.osrtt.com/)
-    - [piLagTester](https://alantechreview.blogspot.com/2020/08/pilagtester-pro-order-page.html) (input lag and response time tester)
     - PPD Calculator: [1](https://phrogz.net/tmp/ScreenDens2In.html) [2](https://www.cl.cam.ac.uk/research/rainbow/projects/display_calc/)
     - [Video Timings Calculator](https://tomverbeure.github.io/video_timings_calculator)
     - [Video Bandwidth Calculator](https://trychen.com/feature/video-bandwidth)
