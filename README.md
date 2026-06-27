@@ -161,6 +161,7 @@
 - ## Mouse
   - ### Information
     - [FAQ](content/peripherals/mouse%20faq.md)
+    - [Firmware design](https://xbabtech.com/blog/firmware/)
   - ### Reviews
     - [TechPowerUp](https://www.techpowerup.com/review/?category=Mice&manufacturer=&pp=50&order=date)
     - [EYEJOKER DB](https://eyejokerdb.com/en/benchmarks/mouse)
